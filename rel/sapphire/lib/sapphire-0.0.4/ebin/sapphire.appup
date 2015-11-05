@@ -1,0 +1,7 @@
+{"0.0.4",
+ [{"0.0.3",
+   [{load_module,'Elixir.Sapphire.PageView'},
+    {load_module,'Elixir.Sapphire.UserSocket'}]}],
+ [{"0.0.3",
+   [{load_module,'Elixir.Sapphire.PageView'},
+    {load_module,'Elixir.Sapphire.UserSocket'}]}]}.
